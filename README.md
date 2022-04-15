@@ -1,4 +1,4 @@
-# ai-lab-mal
+# Ressurser fra internship i NAV IT
 
 Repo for diverse ressurser ifm internship som dataanalytiker i NAV IT Data og Utvikling 2021-2022.
 
